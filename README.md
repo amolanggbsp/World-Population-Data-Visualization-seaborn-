@@ -33,4 +33,6 @@
 
 
 #### age_structure sorted bar graph 
-
+<div>
+<img width="528" alt="github" src="https://user-images.githubusercontent.com/48209176/59554983-949bcf80-8fe6-11e9-84d7-67185b105a7d.PNG">
+</div>
