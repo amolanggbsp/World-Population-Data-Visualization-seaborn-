@@ -12,7 +12,6 @@
 ```
 1. Population _age structure
 2. Population _ median age
-
 ```
 ### 1.3 Pandas Dataframe of 
 #### Median_age.csv 
